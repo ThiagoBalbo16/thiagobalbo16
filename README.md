@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 💸 MSc in Economics!
+- 💻 I'm currently learning data science/data analysis tools: Power BI | Python | R | SQL
+- 📚 Addict in russian literature!
+- 🎵 Harmonica player super amateur!
+- 📫 How to reach me: thiagobalbobatista@gmail.com
+
 <!--
 **ThiagoBalbo16/thiagobalbo16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
