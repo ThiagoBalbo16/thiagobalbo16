@@ -2,7 +2,6 @@
 
 - 💸 MSc in Economics!
 - 💻 I'm currently learning data science/data analysis tools: Power BI | Python | R | SQL
-- 📚 Addict in russian literature!
 - 🎵 Super amateur flute player !
 - 📫 How to reach me: thiagobalbobatista@gmail.com
 
